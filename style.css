@@ -30,7 +30,7 @@ body{
     text-decoration: underline;
 }
 .hero {
-    height: 650px;
+    height: 700px;
     display: flex;
     background-color: #f0e1e1;
     gap: 20px;
@@ -46,16 +46,15 @@ body{
     flex-direction: column;
     justify-content: center;
     padding: 20px;
-    margin-left: 90px;
-    font-size: larger;
+    margin-left: 200px;
 }
 .hero h1{
-    font-size: 36px;
+    font-size: 50px;
     colour: #efdede;
     margin-bottom: 20px;
 }
 .hero p{
-    font-size: 18px;
+    font-size: 28px;
     color: #877979;
     max-width: 600px;
 }
